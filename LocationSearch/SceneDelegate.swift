@@ -2,8 +2,8 @@
 //  SceneDelegate.swift
 //  LocationSearch
 //
-//  Created by Jeffrey Edmondson on 6/24/20.
-//  Copyright © 2020 Jeffrey Edmondson. All rights reserved.
+//  Created by JefF Edmondson on 6/24/20.
+//  Copyright © 2020 Jeff Edmondson. All rights reserved.
 //
 
 import UIKit
